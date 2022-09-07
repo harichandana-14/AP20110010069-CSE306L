@@ -1,0 +1,23 @@
+
+int : keyword 
+main : identifier
+(
+)
+{
+int : keyword 
+i : identifier
+;
+while : keyword 
+(
+i : identifier
+<= : relational operator 
+10: number
+)
+{
+print : identifier
+(
+i : identifier
+)
+;
+}
+}
